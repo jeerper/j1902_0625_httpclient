@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/j1902_0625_client/j1902_0625_client.iml" filepath="$PROJECT_DIR$/j1902_0625_client/j1902_0625_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j1902_0625_httpclient.iml" filepath="$PROJECT_DIR$/j1902_0625_httpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j1902_0625_httpserver/j1902_0625_httpserver.iml" filepath="$PROJECT_DIR$/j1902_0625_httpserver/j1902_0625_httpserver.iml" />
+    </modules>
+  </component>
+</project>
